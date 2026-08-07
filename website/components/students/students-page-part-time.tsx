@@ -19,17 +19,17 @@ type Props = {
   examTitle: string;
 };
 
-export default function StudentsPagePartTime({ exams, examTitle }: Props) {
+export default function StudentsPagePartTime({ exams }: Props) {
   const t = useTranslations();
 
   const deadlines: Deadlines = useMemo(
     () => t.raw("students.sections.partTime.deadlines") as Deadlines,
-    [t]
+    [t],
   );
 
   const priceList: PriceLists = useMemo(
     () => t.raw("students.sections.partTime.priceList") as PriceLists,
-    [t]
+    [t],
   );
 
   return (
@@ -90,7 +90,6 @@ export default function StudentsPagePartTime({ exams, examTitle }: Props) {
 
       <div className="table-container" data-search-key="ispiti">
         <table className="part-time-table">
-          <caption>{examTitle}</caption>
           <thead>
             <tr>
               <th>{t("students.sections.partTime.examDataHeaders.0")}</th>
