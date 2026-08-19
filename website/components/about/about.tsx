@@ -173,76 +173,65 @@ export default async function About({
             <tbody>
               <tr>
                 <td>MATEMATIKA</td>
-                <td>27.08.2026. 10h</td>
                 <td>
-                  1. Jovana Milovanović, Monika Vanovac,Ivana Vujičić,Dragana
-                  Joksimović,Relja Ćurčin,Ivana Jovanović,Nataša Avdić,Srđan
-                  Gagić 2. Rajka Miletić 3. Snežana Aleksić{" "}
+                  Jovana Milovanović, Monika Vanovac, Ivana Vujičić, Dragana
+                  Joksimović, Relja Ćurčin, Ivana Jovanović, Nataša Avdić, Srđan
+                  Gagić, Rajka Miletić, Snežana Aleksić
                 </td>
+                <td>27.08.2026. 10h</td>
               </tr>
 
               <tr>
                 <td>MATEMATIKA</td>
-                <td>28.08.2026. 11h</td>
                 <td>
-                  1. Nada Đurić,Nataša Tubić,Srđan Lukač,Pavle Karastojković, 2.
-                  Zorica Lukić 3. Ljiljana Stanojčić{" "}
+                  Nada Đurić, Nataša Tubić, Srđan Lukač,Pavle Karastojković,
+                  Zorica Lukić , Ljiljana Stanojčić{" "}
                 </td>
+                <td>28.08.2026. 11h</td>
               </tr>
 
               <tr>
                 <td>FIZIKA</td>
-                <td>26.08.2026. 10h</td>
                 <td>
-                  Nataša Avdić,Srđan Lukač,Svetlana Lazić,Pavle
-                  Karastojković,Jovana Milovanović,Olivera Lužnjanin,Monika
-                  Vanovac, Nada Đurić,Dragana Joksimović,Nataša Tubić,Ivana
-                  Vujičić,Ivana Jovanović, Marijana Arsenijević, Snežana
-                  Šunderić{" "}
+                  Nataša Avdić, Srđan Lukač,Svetlana Lazić, Pavle Karastojković,
+                  Jovana Milovanović, Olivera Lužnjanin, Monika Vanovac, Nada
+                  Đurić, Dragana Joksimović, Nataša Tubić, Ivana Vujičić, Ivana
+                  Jovanović, Marijana Arsenijević, Snežana Šunderić
                 </td>
+                <td>26.08.2026. 10h</td>
               </tr>
 
               <tr>
                 <td>RAČUNARSKE MREŽE</td>
+                <td>Srđan Gagić, Ivica Radisavljević, Ivan Stanković</td>
                 <td>24.08.2026. 10h</td>
-                <td>1. Srđan Gagić 2. Ivica Radisavljević 3. Ivan Stanković</td>
               </tr>
 
               <tr>
                 <td>VEB PROGRAMIRANjE</td>
-                <td>27.08.2026. 10h</td>
-                <td>1. Marina Ristanović 2. Ivana Vujičić 3. Marina Takov</td>
+                <td>Marina Ristanović, Ivana Vujičić, Marina Takov</td>
+                <td>27.08.2026. 11h</td>
               </tr>
 
               <tr>
                 <td>PROGRAMIRANjE</td>
-                <td>28.08.2026. 10h</td>
                 <td>
-                  1. Marina Ristanović,Svetlana Lazić,Aleksandar Ilijić 2.
-                  Olivera Lužnjanin 3. Adriana Đurić{" "}
+                  Marina Ristanović, Svetlana Lazić, Aleksandar Ilijić, Olivera
+                  Lužnjanin, Adriana Đurić
                 </td>
+                <td>28.08.2026. 10h</td>
               </tr>
 
               <tr>
                 <td>RAČUNARSKI SISTEMI</td>
+                <td>Nada Đurić, Valentina Milenković, Dejan Stanković</td>
                 <td>20.08.2026. 11h</td>
-                <td>
-                  1. Nada Đurić 2. Valentina Milenković 3. Dejan Stanković
-                </td>
-              </tr>
-
-              <tr>
-                <td>ELEKTRONIKA</td>
-                <td>20.08.2026. 11h</td>
-                <td>1. Nada Đurić 2. Zoran Ristić 3. Vesna Janjić</td>
               </tr>
 
               <tr>
                 <td>PASIVNE I AKTIVNE KOMPONENTE</td>
+                <td>Olivera Lužnjanin, Ivica Radisavljević, Ivan Stanković</td>
                 <td>24.08.2026. 10h</td>
-                <td>
-                  1. Olivera Lužnjanin 2. Ivica Radisavljević 3. Ivan Stanković
-                </td>
               </tr>
             </tbody>
           </table>
