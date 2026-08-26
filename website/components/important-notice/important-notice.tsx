@@ -5,53 +5,32 @@ function ImportantNotice() {
     <section className="important-notice">
       <div className="important-notice-announcement">
         <div>
-          <h1>Obaveštenje o početku nastave</h1>
+          <h1>OBAVEŠTENJE</h1>
           <center>
             <p>
-              U ponedeljak, <strong>19.01.2026.</strong>, učenici se vraćaju na
-              nastavu prema sledećem rasporedu smena.
+              Poštovani učenici i roditelji,
+              Školska 2026/2027. godina počinje u utorak 1. septembra 2026. godine.
             </p>
           </center>
         </div>
 
         <div>
-          <h2>Raspored smena</h2>
+          <h2>Raspored smena:</h2>
           <ul>
             <li>
-              Prvi i treći razred – <strong>pre podne u 07:45</strong>
+              Prvi i treći razred: <strong>pre podne</strong>
             </li>
             <li>
-              Drugi i četvrti razred – <strong>poslepodne u 14:00</strong>
+              Drugi i četvrti razred: <strong>poslepodne</strong>
             </li>
           </ul>
         </div>
 
-        <p>Molimo učenike da dođu u školu najmanje 10 minuta ranije.</p>
+        <p>Prijem, prozivka i upoznavanje prvaka sa odeljenjskim starešinama biće od 7:30 časova u dvorištu škole. Prva dva časa svi učenici će imati sa svojim odeljenjskim starešinama, a od 3. časa prema rasporedu časova.</p>
 
-        <div className="important-notice-table">
-          <table>
-            <caption>Pregled po razredima</caption>
-            <thead>
-              <tr>
-                <th>Razred</th>
-                <th>Smena</th>
-                <th>Vreme početka</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Prvi i treći</td>
-                <td>Pre podne</td>
-                <td>07:45</td>
-              </tr>
-              <tr>
-                <td>Drugi i četvrti</td>
-                <td>Poslepodne</td>
-                <td>14:00</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
+        <p>Budućim prvacima i ostalim učenicima Elektrotehničke škole Zemun želimo srećan početak školske godine i mnogo uspeha u učenju!</p>
+
+        <p>Kolektiv i direktor Elektrotehničke škole Zemun!</p>
       </div>
     </section>
   );

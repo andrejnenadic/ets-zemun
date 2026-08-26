@@ -12,6 +12,7 @@ import StudentsPagePPService from "./students-page-pp-service";
 import StudentsPageStudentParliament from "./students-page-student-parliament";
 import "./students.scss";
 import { Schema } from "@/api-dsl/types/endpoints/schema-parser";
+import StudentsPageRegular from "./sudents-page-regular";
 
 type StudentsProps = {
   exams: Schema<"ExamResponseDto">[];
@@ -24,9 +25,10 @@ export default function Students({ exams, examTitle }: StudentsProps) {
 
   const contentContainerRef = useRef<HTMLDivElement | null>(null);
   const [activeSection, setActiveSection] =
-    useState<string>("vanredni-ucenici");
+    useState<string>("redovni-ucenici");
 
   const sections = [
+    { id: "redovni-ucenici", component: <StudentsPageRegular /> },
     { id: "ucenicki-parlament", component: <StudentsPageStudentParliament /> },
     { id: "savet-roditelja", component: <StudentsPageParentParliament /> },
     {

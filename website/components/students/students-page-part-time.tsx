@@ -36,15 +36,6 @@ export default function StudentsPagePartTime({ exams }: Props) {
     <div className="part-time-container" data-search-key="vanredni-ucenici">
       <h1>{t("students.sections.partTime.title")}</h1>
 
-      <div className="image-container">
-        <Image
-          src="/images/students/part-time.webp"
-          alt="part-time"
-          width={600}
-          height={400}
-        />
-      </div>
-
       <div className="table-container">
         <table>
           <caption>{t("students.sections.partTime.deadlinesCaption")}</caption>
