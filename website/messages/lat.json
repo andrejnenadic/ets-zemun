@@ -814,28 +814,28 @@
         "deadlines": [
           {
             "term": "OKTOBARSKI",
-            "registration": "08-30.09.2025.",
-            "exam": "01-31.10.2025."
+            "registration": "08-30.09.2026.",
+            "exam": "05-30.10.2026."
           },
           {
             "term": "DECEMBARSKO/JANUARSKI",
-            "registration": "10-28.11.2025.",
-            "exam": "08-31.12.2025."
+            "registration": "09-27.11.2026.",
+            "exam": "02-30.12.2026."
           },
           {
             "term": "APRILSKI",
-            "registration": "02-27.03.2026.",
-            "exam": "01-30.04.2026."
+            "registration": "01-31.03.2027.",
+            "exam": "05-29.04.2027."
           },
           {
             "term": "MAJSKO/JUNSKI",
-            "registration": "11-28.05.2026.",
-            "exam": "01-19.06.2026."
+            "registration": "05-28.05.2027.",
+            "exam": "01-18.06.2027."
           },
           {
             "term": "AVGUSTOVSKI",
-            "registration": "01-19.06.2026.",
-            "exam": "17-31.08.2026."
+            "registration": "01-18.06.2027.",
+            "exam": "17-31.08.2027."
           }
         ],
         "priceList": [
@@ -848,8 +848,8 @@
           },
           { "itemName": "ISPIT SA VEŽBAMA", "itemPrice": "1.000,00 din." },
           {
-            "itemName": "ČAS KONSULTATIVNE NASTAVE (GRUPA DO 15 UČENIKA)",
-            "itemPrice": "200,00 din."
+            "itemName": "ISPIT IZ PRAKTIČNE NASTAVE",
+            "itemPrice": "1.000,00 din."
           },
           {
             "itemName": "ČAS KONSULTATIVNE NASTAVE(GRUPA DO 15 UČENIKA)",
@@ -862,9 +862,9 @@
           "title": "RAČUN ZA UPLATU ZA VANREDNE UČENIKE",
           "description": ["OBAVEZNO:", "POZIV NA BROJ:"]
         },
-        "deadlinesCaption": "ROKOVI ZA VANREDNE UČENIKE U ŠKOLSKOJ 2025/2026. GODINI",
+        "deadlinesCaption": "ROKOVI ZA VANREDNE UČENIKE U ŠKOLSKOJ 2026/2027. GODINI",
         "deadlinesHeaders": ["ROKOVI", "PRIJAVLJIVANJA", "POLAGANJA"],
-        "priceListTitle": "CENOVNIK VANREDNOG ŠKOLOVANJA ZA ŠKOLSKU 2025/2026. GODINU",
+        "priceListTitle": "CENOVNIK VANREDNOG ŠKOLOVANJA ZA ŠKOLSKU 2026/2027. GODINU",
         "examDataHeaders": [
           "PREDMET",
           "KOMISIJA",

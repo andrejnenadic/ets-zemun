@@ -817,28 +817,28 @@
         "deadlines": [
           {
             "term": "OCTOBER",
-            "registration": "08-30.09.2025.",
-            "exam": "01-31.10.2025."
+            "registration": "08-30.09.2026.",
+            "exam": "05-30.10.2026."
           },
           {
             "term": "DECEMBER/JANUARY",
-            "registration": "10-28.11.2025.",
-            "exam": "08-31.12.2025."
+            "registration": "09-27.11.2026.",
+            "exam": "02-30.12.2026."
           },
           {
             "term": "APRIL",
-            "registration": "02-27.03.2026.",
-            "exam": "01-30.04.2026."
+            "registration": "01-31.03.2027.",
+            "exam": "05-29.04.2027."
           },
           {
             "term": "MAY/JUNE",
-            "registration": "11-28.05.2026.",
-            "exam": "01-19.06.2026."
+            "registration": "05-28.05.2027.",
+            "exam": "01-18.06.2027."
           },
           {
             "term": "AUGUST",
-            "registration": "01-19.06.2026.",
-            "exam": "17-31.08.2026."
+            "registration": "01-18.06.2027.",
+            "exam": "17-31.08.2027."
           }
         ],
         "priceList": [
@@ -868,9 +868,9 @@
           "title": "INVOICE FOR PART-TIME STUDENTS",
           "description": ["OBLIGATORY:", "INVOICE NUMBER:"]
         },
-        "deadlinesCaption": "DEADLINES FOR PART-TIME STUDENTS IN THE 2025/2026 SCHOOL YEAR",
+        "deadlinesCaption": "DEADLINES FOR PART-TIME STUDENTS IN THE 2026/2027 SCHOOL YEAR",
         "deadlinesHeaders": ["DEADLINES", "REGISTRATION", "EXAM PERIOD"],
-        "priceListTitle": "PRICE LIST FOR PART-TIME STUDENTS IN THE 2025/2026 SCHOOL YEAR",
+        "priceListTitle": "PRICE LIST FOR PART-TIME STUDENTS IN THE 2026/2027 SCHOOL YEAR",
         "examDataHeaders": [
           "SUBJECT",
           "COMMISSION",
