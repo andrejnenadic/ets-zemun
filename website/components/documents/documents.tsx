@@ -74,6 +74,10 @@ const data: {
           title: "documents.groups.7.documents.4",
           url: "/documents/planovi-nastave/elektromehaničar-za-rashladne-i-termičke-uređaje.pdf",
         },
+        {
+          title: "documents.groups.7.documents.5",
+          url: "/documents/skolski-program-2026-2030.docx",
+        },
       ],
     },
     {
