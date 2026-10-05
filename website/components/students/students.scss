@@ -197,11 +197,12 @@
     }
 
     .regular-students-container {
-        width: 100%;
+        align-self: center;
+        width: 80%;
+        max-width: 120rem;
 
         display: flex;
         flex-direction: column;
-        align-items: center;
 
         & > h1 {
             margin-bottom: 8rem;
@@ -209,6 +210,22 @@
             font-size: 4rem;
             color: $accent-secondary;
             text-align: center;
+        }
+
+          & > h2 {
+            width: 100%;
+            margin-bottom: 3rem;
+
+            font-size: 3rem;
+            font-weight: 600;
+            color: $accent-secondary;
+            text-align: start;
+          }
+
+          ul {
+            font-size: 1.6rem;
+            margin-bottom: 8rem;
+          }
         }
     }
 
@@ -773,4 +790,3 @@
       }
     }
   }
-}

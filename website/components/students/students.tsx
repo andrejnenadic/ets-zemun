@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
+import StudentsPageRegular from "./sudents-page-regular";
 import StudentsPageAntiBullying from "./students-page-anti-bullying";
 import StudentsPageMentalHealth from "./students-page-mental-health";
 import StudentsPageParentParliament from "./students-page-parent-parliament";
@@ -24,9 +25,10 @@ export default function Students({ exams, examTitle }: StudentsProps) {
 
   const contentContainerRef = useRef<HTMLDivElement | null>(null);
   const [activeSection, setActiveSection] =
-    useState<string>("vanredni-ucenici");
+    useState<string>("redovni-ucenici");
 
   const sections = [
+    { id: "redovni-ucenici", component: <StudentsPageRegular /> },
     { id: "ucenicki-parlament", component: <StudentsPageStudentParliament /> },
     { id: "savet-roditelja", component: <StudentsPageParentParliament /> },
     {
